@@ -10,6 +10,10 @@
   <a href="https://twitter.com/beimnetzewduk">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
+  
+   <a href="https://beimnetzewdu.com">
+    <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="w"/>
+  </a>
 </div>
 
 <img src="https://komarev.com/ghpvc/?username=beimnetzewdu&style=flat-square&color=green" alt=""/>
