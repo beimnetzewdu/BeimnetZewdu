@@ -60,7 +60,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=beimnetzewdu&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
-📫 Visit my Website @ - https://www.beimnetzewdu.com/
 
 <!---
 BeimnetZ/BeimnetZ is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
