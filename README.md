@@ -35,7 +35,7 @@
 
 - :zap: In my free time, I love to write about the techs I have used and how people can ue themselves.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)]https://www.linkedin.com/in/beimnet-zewdu-kebede)
+- :mailbox:How to reach me: https://www.linkedin.com/in/beimnet-zewdu-kebede
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/android/android-original.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
